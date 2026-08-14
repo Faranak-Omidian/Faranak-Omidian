@@ -1,39 +1,74 @@
-# Hi, I'm Faranak Omidian👋
+# Hi, I'm Faranak Omidian 👋
 
-### AI Master's Student | Computer Science Graduate | AI & Computer Vision Enthusiast
+🎓 Computer Science Graduate | M.Sc. Artificial Intelligence Student
 
-I'm a Computer Science graduate from **Islamic Azad university, Science and Research Branch**, currently pursuing a **Master's degree in Artificial Intlligence**.
+I'm a Computer Science graduate from Islamic Azad University, Science and Research Branch, currently pursuing a Master's degree in Artificial Intelligence.
 
-My main interests are **Artificial Intelligence, Computer Vision, and Deep Learning**. I'm currently building and exploring AI projects while strengthening my foundations in machine learning and computer vision.
+My main interests are Artificial Intelligence and Computer Vision. I also enjoy working on front-end development and building web interfaces using HTML, CSS, and JavaScript.
 
-### 🔭Areas of Interest
-- 🤖artificial Intelligence & Machine Learning
-- 👁️Computer Vision
-- 🧠Deep Learning
-- 🌐Front-end Development
-- 💻Python & web Technologies
-### technologies & Tools
+## 🔍 Areas of Interest
 
-**AI & Computer Vision**
+- Artificial Intelligence
+- Computer Vision
+- Machine Learning
+- Deep Learning
+- Multi-Agent Systems
+- Front-End Development
+
+## 🛠️ Technologies & Tools
+
+### AI & Machine Learning
 - Python
-- Tensorflow / keras
-- OpenCV
-- Numpy
+- TensorFlow / Keras
+- Scikit-learn
+- NumPy
 - Pandas
 
-**Front-End**
+### Computer Vision
+- Image Classification
+- Transfer Learning
+- Convolutional Neural Networks (CNNs)
+
+### Multi-Agent Systems
+- Java
+- JADE
+- Agent Communication Language (ACL)
+
+### Front-End
 - HTML
 - CSS
 - JavaScript
 
-  **Tools**
-  - Git & GitHub
-  - Vs Code
- 
-    ### 📌Featured Projects
+### Tools
+- Git
+- GitHub
+- VS Code
 
-    I'm currently building my portfolio through hands-on projects in **AI, Computer Vision, and Front-End Development**.
+## 📌 Featured Projects
 
-    More Projects and experiments will be added as I continue learning and developing my skills.
-    ----
-    📫**Feel free to explore my repositories and follow my journey in AI and software development.**
+### 🖼️ Human Action Recognition — EfficientNetV2B3
+
+Image-based human action recognition using transfer learning and an ImageNet-pretrained EfficientNetV2B3 model.
+
+### 🤖 Imbalanced Classification — PCA + ExtraTrees
+
+A machine learning pipeline demonstrating preprocessing, random oversampling, PCA, and ExtraTrees classification on imbalanced data.
+
+### 📊 Linear vs Nonlinear Classification
+
+A comparison between Logistic Regression and SVM with an RBF kernel for handwritten digit classification.
+
+### 🤝 JADE Multi-Agent Shopping System
+
+A Java-based multi-agent shopping system demonstrating agent communication, ACL messages, behaviours, and inventory management using JADE.
+
+## 🎯 Currently Learning
+
+- Computer Vision
+- Deep Learning
+- Machine Learning
+- Artificial Intelligence
+
+---
+
+⭐ Thanks for visiting my profile!
