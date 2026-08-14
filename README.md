@@ -37,25 +37,37 @@ JADE · Agent Communication Language (ACL)
 Git · GitHub · VS Code
 
 ---
-
 ## 📌 Featured Projects
 
 ### 🖼️ Human Action Recognition — EfficientNetV2B3
 
 Image-based human action recognition using transfer learning with an ImageNet-pretrained EfficientNetV2B3 model.
 
+[🔗 View Project →](https://github.com/Faranak-Omidian/human-action-recognition-efficientnetv2b3)
+
+---
+
 ### 🤝 JADE Multi-Agent Shopping System
 
 A Java-based multi-agent shopping system demonstrating agent communication, ACL messaging, behaviours, and inventory management using JADE.
+
+[🔗 View Project →](https://github.com/Faranak-Omidian/jade-multi-agent-shopping-system)
+
+---
 
 ### 🤖 Imbalanced Classification — PCA + ExtraTrees
 
 A machine learning pipeline using preprocessing, random oversampling, PCA, and ExtraTrees classification for imbalanced data.
 
+[🔗 View Project →](https://github.com/Faranak-Omidian/imbalanced-classification-pca)
+
+---
+
 ### 📊 Linear vs Nonlinear Classification
 
 A comparison between Logistic Regression and SVM with an RBF kernel for handwritten digit classification.
 
+[🔗 View Project →](https://github.com/Faranak-Omidian/linear-vs-nonlinear-classification)
 ---
 
 ## 🎯 Currently Learning
