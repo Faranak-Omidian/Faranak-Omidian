@@ -1,10 +1,12 @@
 # Hi, I'm Faranak Omidian 👋
 
-🎓 Computer Science Graduate | M.Sc. Artificial Intelligence Student
+🎓 **M.Sc. Artificial Intelligence Student | Computer Science Graduate**
 
-I'm a Computer Science graduate from Islamic Azad University, Science and Research Branch, currently pursuing a Master's degree in Artificial Intelligence.
+I'm a Computer Science graduate from **Islamic Azad University, Science and Research Branch**, currently pursuing a Master's degree in **Artificial Intelligence**.
 
-My main interests are Artificial Intelligence and Computer Vision. I also enjoy working on front-end development and building web interfaces using HTML, CSS, and JavaScript.
+My main interests are **Artificial Intelligence, Computer Vision, and Machine Learning**. I also enjoy front-end development and building web interfaces using **HTML, CSS, and JavaScript**.
+
+---
 
 ## 🔍 Areas of Interest
 
@@ -15,52 +17,46 @@ My main interests are Artificial Intelligence and Computer Vision. I also enjoy 
 - Multi-Agent Systems
 - Front-End Development
 
+---
+
 ## 🛠️ Technologies & Tools
 
-### AI & Machine Learning
-- Python
-- TensorFlow / Keras
-- Scikit-learn
-- NumPy
-- Pandas
+**Programming:**  
+Python · Java · JavaScript · HTML · CSS
 
-### Computer Vision
-- Image Classification
-- Transfer Learning
-- Convolutional Neural Networks (CNNs)
+**AI & Machine Learning:**  
+TensorFlow · Keras · Scikit-learn · NumPy · Pandas
 
-### Multi-Agent Systems
-- Java
-- JADE
-- Agent Communication Language (ACL)
+**Computer Vision:**  
+Image Classification · Transfer Learning · CNNs
 
-### Front-End
-- HTML
-- CSS
-- JavaScript
+**Multi-Agent Systems:**  
+JADE · Agent Communication Language (ACL)
 
-### Tools
-- Git
-- GitHub
-- VS Code
+**Tools:**  
+Git · GitHub · VS Code
+
+---
 
 ## 📌 Featured Projects
 
 ### 🖼️ Human Action Recognition — EfficientNetV2B3
 
-Image-based human action recognition using transfer learning and an ImageNet-pretrained EfficientNetV2B3 model.
+Image-based human action recognition using transfer learning with an ImageNet-pretrained EfficientNetV2B3 model.
+
+### 🤝 JADE Multi-Agent Shopping System
+
+A Java-based multi-agent shopping system demonstrating agent communication, ACL messaging, behaviours, and inventory management using JADE.
 
 ### 🤖 Imbalanced Classification — PCA + ExtraTrees
 
-A machine learning pipeline demonstrating preprocessing, random oversampling, PCA, and ExtraTrees classification on imbalanced data.
+A machine learning pipeline using preprocessing, random oversampling, PCA, and ExtraTrees classification for imbalanced data.
 
 ### 📊 Linear vs Nonlinear Classification
 
 A comparison between Logistic Regression and SVM with an RBF kernel for handwritten digit classification.
 
-### 🤝 JADE Multi-Agent Shopping System
-
-A Java-based multi-agent shopping system demonstrating agent communication, ACL messages, behaviours, and inventory management using JADE.
+---
 
 ## 🎯 Currently Learning
 
@@ -71,4 +67,8 @@ A Java-based multi-agent shopping system demonstrating agent communication, ACL 
 
 ---
 
-⭐ Thanks for visiting my profile!
+## 📫 Contact
+
+Feel free to explore my repositories and projects.
+
+Thanks for visiting my profile! ⭐
